@@ -4,3 +4,4 @@ Task-2: A script that changes the working directory to the user’s home directo
 Task-3: A script that display current directory contents in a long format.
 Task-4: A script that display current directory contents, including hidden files.
 Task-5: A script that display current directory contents.
+Task-6: A script that creates a directory named my_first_directory in the /tmp/ directory.
